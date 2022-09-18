@@ -1,1 +1,2 @@
 muj prga soubor pres git
+tim je myslo nahrani do vzaleneho repo na github
